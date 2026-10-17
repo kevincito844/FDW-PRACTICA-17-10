@@ -1,0 +1,1 @@
+alert ('¡Bienvenido a la veterinaria Huellitas!');
